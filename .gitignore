@@ -1,0 +1,7 @@
+ptb-xl.zip
+ptb-xl/
+
+data/
+catalog.db
+dataset/
+lightning_logs/
