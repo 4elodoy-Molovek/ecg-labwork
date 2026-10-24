@@ -1,5 +1,0 @@
-git+https://gitverse.ru/unn-aicenter/ecg-warehouse@v1.0.0
-git+https://gitverse.ru/unn-aicenter/ecg-ml@v1.0.0
-
-ipykernel
-ipywidgets
